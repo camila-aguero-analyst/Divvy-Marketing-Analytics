@@ -1,8 +1,10 @@
 # Divvy Marketing Analytics
 
-📊 **Stakeholder Presentation**
+![Project Cover](Presentation/project_cover.png)
 
-[View Full Presentation](Presentation/Divvy_Bikes_Growth_Strategy.pdf)
+## 📊 Stakeholder Presentation
+
+**[View Full Presentation](Presentation/Divvy_Bikes_Growth_Strategy.pdf)**
 
 ## Project Summary
 
@@ -35,15 +37,19 @@ Cyclistic's marketing team wanted to understand:
 ## Key Findings
 
 ### Casual riders generate more trips
+
 * Casual riders accounted for 53% of total rides.
 
 ### Casual riders take longer trips
+
 * Casual riders averaged 28.0 minutes per ride compared to 20.5 minutes for members.
 
 ### Electric bikes dominate usage
+
 * 83% of all rides were taken on electric bikes.
 
 ### Weekend demand is strongest among casual riders
+
 * Casual rider activity peaked Friday through Sunday.
 
 ## Recommendations
@@ -52,9 +58,3 @@ Cyclistic's marketing team wanted to understand:
 * Promote unlimited e-bike access.
 * Launch weekend-focused membership promotions.
 * Highlight cost savings and convenience benefits.
-
-## Repository Structure
-
-📁 Presentation  
-📁 SQL  
-📄 README.md
