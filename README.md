@@ -1,14 +1,12 @@
 # Divvy Marketing Analytics
 
+📊 **Stakeholder Presentation**
+
+[View Full Presentation](Presentation/Divvy_Bikes_Growth_Strategy.pdf)
+
 ## Project Summary
 
 A marketing analytics project using SQL, BigQuery, and Tableau to analyze rider behavior and develop membership conversion strategies for Divvy Bike Share.
-
-## Final Presentation
-
-View the complete stakeholder presentation:
-
-[Divvy Growth Strategy Presentation](Presentation/Divvy_Bikes_Growth_Strategy.pdf)
 
 ## Project Overview
 
@@ -37,19 +35,15 @@ Cyclistic's marketing team wanted to understand:
 ## Key Findings
 
 ### Casual riders generate more trips
-
 * Casual riders accounted for 53% of total rides.
 
 ### Casual riders take longer trips
-
 * Casual riders averaged 28.0 minutes per ride compared to 20.5 minutes for members.
 
 ### Electric bikes dominate usage
-
 * 83% of all rides were taken on electric bikes.
 
 ### Weekend demand is strongest among casual riders
-
 * Casual rider activity peaked Friday through Sunday.
 
 ## Recommendations
@@ -61,6 +55,6 @@ Cyclistic's marketing team wanted to understand:
 
 ## Repository Structure
 
-* SQL Queries
-* Tableau Visualizations
-* Final Presentation
+📁 Presentation  
+📁 SQL  
+📄 README.md
