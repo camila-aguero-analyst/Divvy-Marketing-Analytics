@@ -8,7 +8,7 @@ A marketing analytics project using SQL, BigQuery, and Tableau to analyze rider 
 
 View the complete stakeholder presentation:
 
-[Divvy Growth Strategy Presentation](SQL/Divvy_Growth_Strategy.pdf)
+[Divvy Growth Strategy Presentation](Presentation/Divvy_Bikes_Growth_Strategy.pdf)
 
 ## Project Overview
 
