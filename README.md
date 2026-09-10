@@ -1,11 +1,5 @@
 # Divvy Marketing Analytics
 
-![Project Cover](Presentation/project_cover.png)
-
-## 📊 Stakeholder Presentation
-
-**[View Full Presentation](Presentation/Divvy_Bikes_Growth_Strategy.pdf)**
-
 ## Project Summary
 
 A marketing analytics project using SQL, BigQuery, and Tableau to analyze rider behavior and develop membership conversion strategies for Divvy Bike Share.
