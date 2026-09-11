@@ -18,10 +18,10 @@ ORDER BY avg_ride_duration_minutes DESC;
 -- =====================================================
 -- Insight
 -- =====================================================
--- Casual riders averaged 16.9 minutes per ride,
--- compared with 10.0 minutes for annual members.
+-- Casual riders averaged 17.4 minutes per ride,
+-- compared with 10.5 minutes for annual members.
 --
--- Casual rides were approximately 69% longer
+-- Casual rides were approximately 66% longer
 -- on average than member rides.
 
 -- =====================================================
